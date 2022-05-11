@@ -21,25 +21,25 @@
 
 ### superglide1 file commands
 
-bind "CAPSLOCK" "+jump; exec superglide2.cfg" 0
+- bind "CAPSLOCK" "+jump; exec superglide2.cfg" 0
 
-bind "MWHEELDOWN" "+jump" 0
+- bind "MWHEELDOWN" "+jump" 0
 
 If you're using scroll down as jump for b-hop replace with:
 
-bind "MWHEELDOWN" "+jump; +forward" 0
+- bind "MWHEELDOWN" "+jump; +forward" 0
 
 If that doesnt work in the autoexec.cfg, remove "//" infront of the command below to take effect 
 
-bind "mwheeldown" "+jump; +forward"	
+- bind "mwheeldown" "+jump; +forward"	
 ### superglide2 file command
 
-bind "MWHEELDOWN" "+jump; fps_max 30; exec superglide3.cfg" 0
+- bind "MWHEELDOWN" "+jump; fps_max 30; exec superglide3.cfg" 0
 
 
 ### superglide3 file command
 
-bind "MWHEELDOWN" "+duck; fps_max 190; exec superglide1.cfg" 0
+- bind "MWHEELDOWN" "+duck; fps_max 190; exec superglide1.cfg" 0
 
 ## Videoconfig
 1. [Copy](https://raw.githubusercontent.com/fvives99/autoexec-2022/main/Videoconfig/videoconfig.txt) videoconfig.txt
