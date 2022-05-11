@@ -45,5 +45,5 @@ If that doesnt work in the autoexec.cfg, remove "//" infront of the command belo
 
 ## Videoconfig
 1. [Copy](https://raw.githubusercontent.com/fvives99/autoexec-2022/main/Videoconfig/videoconfig.txt) videoconfig.txt
-2. Make the file read-only
-3. Paste this inside existing videoconfig.txt located in: "%USERPROFILE%\Saved Games\Respawn\Apex\local"
+2. Paste this inside existing videoconfig.txt located in: "%USERPROFILE%\Saved Games\Respawn\Apex\local"
+3. Make the file read-only by right click, properties, check Read-only attribute and hit apply.
