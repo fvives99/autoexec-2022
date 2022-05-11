@@ -17,7 +17,10 @@
 5. Add the Launch Option "+exec autoexec.cfg" (without the Quotation marks)
 
 ## Superglide
-1. Create 3 superglide.cfg files
+Create 3 superglide.cfg files, each one named as follows:
+> superglide1
+> superglide2
+> superglide2
 
 ### superglide1 file commands
 
@@ -35,7 +38,6 @@ If that doesnt work in the autoexec.cfg, remove "//" infront of the command belo
 ### superglide2 file command
 
 - bind "MWHEELDOWN" "+jump; fps_max 30; exec superglide3.cfg" 0
-
 
 ### superglide3 file command
 
